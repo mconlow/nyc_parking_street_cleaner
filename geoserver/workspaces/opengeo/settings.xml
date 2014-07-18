@@ -1,0 +1,24 @@
+<settings>
+  <id>SettingsInfoImpl--61144387:143ab806f0c:-7fff</id>
+  <workspace>
+    <id>WorkspaceInfoImpl--3a33e7d0:1400d3d823c:-7fe6</id>
+    <name>opengeo</name>
+  </workspace>
+  <contact>
+    <id>contact</id>
+    <addressCity>New York</addressCity>
+    <addressCountry>USA</addressCountry>
+    <addressType>Work</addressType>
+    <contactEmail>contact@boundlessgeo.com</contactEmail>
+    <contactOrganization>Boundless</contactOrganization>
+    <contactPerson>Boundless</contactPerson>
+    <contactPosition>Customer Support</contactPosition>
+    <onlineResource>http://boundlessgeo.com/about/contact-us/customer-support/</onlineResource>
+  </contact>
+  <charset>UTF-8</charset>
+  <numDecimals>8</numDecimals>
+  <onlineResource>http://boundlessgeo.com/solutions/solutions-software/geoserver/</onlineResource>
+  <verbose>false</verbose>
+  <verboseExceptions>false</verboseExceptions>
+  <localWorkspaceIncludesPrefix>false</localWorkspaceIncludesPrefix>
+</settings>

@@ -1,0 +1,15 @@
+<layer>
+  <name>vsegments_mon</name>
+  <id>LayerInfoImpl--7d011081:143b0cdda69:-7ffc</id>
+  <type>VECTOR</type>
+  <defaultStyle>
+    <id>StyleInfoImpl--7d011081:143b0cdda69:-8000</id>
+  </defaultStyle>
+  <resource class="featureType">
+    <id>FeatureTypeInfoImpl--7d011081:143b0cdda69:-7ffd</id>
+  </resource>
+  <attribution>
+    <logoWidth>0</logoWidth>
+    <logoHeight>0</logoHeight>
+  </attribution>
+</layer>

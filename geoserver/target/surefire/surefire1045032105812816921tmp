@@ -1,0 +1,20 @@
+#surefire
+#Mon Nov 04 23:20:14 UTC 2013
+testClassesDirectory=/var/lib/jenkins/jobs/suite/workspace/git/geoserver/data_dir/target/test-classes
+forkMode=once
+classPathUrl.1=/var/lib/jenkins/jobs/suite/workspace/git/geoserver/data_dir/target/classes
+useManifestOnlyJar=true
+classPathUrl.0=/var/lib/jenkins/jobs/suite/workspace/git/geoserver/data_dir/target/test-classes
+reportsDirectory=/var/lib/jenkins/jobs/suite/workspace/git/geoserver/data_dir/target/surefire-reports
+providerConfiguration=org.apache.maven.surefire.junit.JUnit3Provider
+testSuiteDefinitionTestSourceDirectory=/var/lib/jenkins/jobs/suite/workspace/git/geoserver/data_dir/src/test/java
+surefireClassPathUrl.1=/var/lib/jenkins/jobs/suite/workspace/mvn/default/repo/org/apache/maven/surefire/surefire-api/2.9/surefire-api-2.9.jar
+surefireClassPathUrl.0=/var/lib/jenkins/jobs/suite/workspace/mvn/default/repo/org/apache/maven/surefire/surefire-junit3/2.9/surefire-junit3-2.9.jar
+runOrder=filesystem
+useSystemClassLoader=true
+excludes0=none
+isTrimStackTrace=true
+enableAssertions=true
+failIfNoTests=false
+includes0=**/*Test.java
+childDelegation=false

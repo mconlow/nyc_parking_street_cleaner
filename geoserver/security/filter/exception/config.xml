@@ -1,0 +1,6 @@
+<exceptionTranslation>
+  <id>25cc7399:143ab531c3e:-7ff1</id>
+  <name>exception</name>
+  <className>org.geoserver.security.filter.GeoServerExceptionTranslationFilter</className>
+  <accessDeniedErrorPage>/accessDenied.jsp</accessDeniedErrorPage>
+</exceptionTranslation>

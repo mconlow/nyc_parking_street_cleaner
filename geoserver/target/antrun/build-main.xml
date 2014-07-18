@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<project name="maven-antrun-" default="main"  >
+<target name="main">
+  <ant dir="externals/suite-data/default"/>
+  <ant dir="externals/suite-data/default" target="assemble"/>
+  <mkdir dir="target/data_dir"/>
+  <copy todir="target/data_dir">
+    <fileset dir=".">
+      <include name="**/*"/>
+      <exclude name="externals/**"/>
+      <exclude name="pom.xml"/>
+    </fileset>
+  </copy>
+  <unzip dest="target/data_dir" src="externals/suite-data/default/target/default.zip"/>
+</target>
+</project>

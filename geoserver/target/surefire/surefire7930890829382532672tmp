@@ -1,0 +1,11 @@
+#surefire
+#Mon Nov 04 23:20:14 UTC 2013
+gs.flags=-Dbuild.commit.id\=f4361753dfd7ea4f7a3406318d1da729ebc9086 -Dbuild.branch\=suite-4.0 -DGit-Revision\=9f9e83c63ea6cf0db4612f0dc0d29bdd709659e -Dgt.Git-Revision\=9f9e83c63ea6cf0db4612f0dc0d29bdd709659e
+mvn.exec=/opt/apache-maven-3.0.5/bin/mvn
+build.date=2013-11-04_22-47-17
+full=true
+user.dir=/var/lib/jenkins/jobs/suite/workspace/git/geoserver/data_dir
+localRepository=/var/lib/jenkins/jobs/suite/workspace/mvn/default/repo
+basedir=/var/lib/jenkins/jobs/suite/workspace/git/geoserver/data_dir
+build.revision=810c751
+mvn.settings=/var/lib/jenkins/jobs/suite/workspace/mvn/default/settings.xml

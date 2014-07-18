@@ -1,0 +1,15 @@
+<layer>
+  <name>vsegments_fri</name>
+  <id>LayerInfoImpl--23e293ce:143b202500b:b8c</id>
+  <type>VECTOR</type>
+  <defaultStyle>
+    <id>StyleInfoImpl--7d011081:143b0cdda69:-8000</id>
+  </defaultStyle>
+  <resource class="featureType">
+    <id>FeatureTypeInfoImpl--23e293ce:143b202500b:b8b</id>
+  </resource>
+  <attribution>
+    <logoWidth>0</logoWidth>
+    <logoHeight>0</logoHeight>
+  </attribution>
+</layer>
